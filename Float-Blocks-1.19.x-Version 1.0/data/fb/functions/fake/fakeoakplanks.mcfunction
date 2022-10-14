@@ -1,0 +1,1 @@
+summon minecraft:falling_block ~ ~ ~ {BlockState:{Name:"minecraft:oak_planks"},NoGravity:1,Tags:["fakeblock"]}
